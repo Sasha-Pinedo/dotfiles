@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sashimipina@gmail.com
+	name = sasha Pinedo
